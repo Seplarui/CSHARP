@@ -1,0 +1,6 @@
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\bin\Debug\MVA.exe.config
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\bin\Debug\MVA.exe
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\bin\Debug\MVA.pdb
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\obj\Debug\MVA.csprojResolveAssemblyReference.cache
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\obj\Debug\MVA.exe
+F:\OneDrive\LENGUAJES\CSHARP\MVA-JUMP TO C#\MVA\MVA\obj\Debug\MVA.pdb
